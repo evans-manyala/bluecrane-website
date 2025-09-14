@@ -4,11 +4,11 @@ import FastTopDiv from './components/FastTopDiv'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AboutUs from './components/AboutUs'
-import Leadership from './components/Leadership'
 import Services from './components/Services'
+import Leadership from './components/Leadership'
 import Resources from './components/Resources'
-import ContactForm from './components/ContactForm'
 import PartnersSlider from './components/PartnersSlider'
+import ContactForm from './components/ContactForm'
 import Footer from './components/Footer'
 
 function MainSite() {
@@ -18,11 +18,11 @@ function MainSite() {
       <Navbar />
       <Hero />
       <AboutUs />
-      <Leadership />
       <Services />
+      <Leadership />
       <Resources />
-      <ContactForm />
       <PartnersSlider />
+      <ContactForm />
       <Footer />
     </>
   )
